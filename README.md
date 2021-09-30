@@ -1,5 +1,9 @@
 # Recommender-System-Challenge
 
+
+Language:Python 3.6
+
+
 Kaggle link: https://www.kaggle.com/c/res2021/overview
 
 
